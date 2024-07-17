@@ -1,5 +1,4 @@
-# Receita-R-pida-de-Macarr-o-Carbonara-Simples-e-Deliciosa
-Receita Rápida de Macarrão à Carbonara: Simples e Deliciosa
+#Receita Rápida de Macarrão à Carbonara: Simples e Deliciosa
 Se você está procurando uma refeição rápida e saborosa, o Macarrão à Carbonara é a escolha perfeita! Esta receita é simples de preparar e não exige muitos ingredientes, tornando-a ideal para aqueles dias corridos. Veja como preparar esse prato delicioso que vai agradar toda a família!
 
 Macarrão à Carbonara
